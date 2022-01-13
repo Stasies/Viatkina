@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ViatkinaFrontend/static/css/main.827893e8.css",
+    "main.js": "/ViatkinaFrontend/static/js/main.4124fc75.js",
+    "index.html": "/ViatkinaFrontend/index.html",
+    "main.827893e8.css.map": "/ViatkinaFrontend/static/css/main.827893e8.css.map",
+    "main.4124fc75.js.map": "/ViatkinaFrontend/static/js/main.4124fc75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827893e8.css",
+    "static/js/main.4124fc75.js"
+  ]
+}
